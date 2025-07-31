@@ -91,7 +91,7 @@ SCT_CS_01/
 ---
 
 ## 📌 GitHub Repository
-🔗 [GitHub Repository Link](https://github.com/rgr_001/SCT_CS_01)
+🔗 [GitHub Repository Link](https://github.com/rgr-001/SCT_CS_01)
 
 ---
 
@@ -110,7 +110,7 @@ SCT_CS_01/
 - Python string handling
 - User input processing
 
-🔗 GitHub: https://github.com/rgr_001/SCT_CS_01
+🔗 GitHub: https://github.com/rgr-001/SCT_CS_01
 
 #SkillCraftTechnology #CaesarCipher #CyberSecurity #Python #Encryption #Task1Complete
 ```
