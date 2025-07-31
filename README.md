@@ -95,28 +95,6 @@ SCT_CS_01/
 
 ---
 
-## 📢 LinkedIn Post (Template)
-
-```
-✅ Task 1 Completed: Caesar Cipher Program @SkillCraft Technology
-
-🔐 Built a Python-based Caesar Cipher encryption/decryption tool that:
-- Handles upper/lowercase characters
-- Preserves special symbols and spaces
-- Accepts custom shift values from users
-
-💡 Key Learnings:
-- Algorithm implementation
-- Python string handling
-- User input processing
-
-🔗 GitHub: https://github.com/rgr-001/SCT_CS_01
-
-#SkillCraftTechnology #CaesarCipher #CyberSecurity #Python #Encryption #Task1Complete
-```
-
----
-
 ## 🏁 Final Notes
 
 > This was a great introductory project for understanding classic cryptography techniques. It lays the foundation for deeper topics in Cybersecurity.
